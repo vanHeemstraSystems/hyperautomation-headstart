@@ -19,6 +19,8 @@ Digital Transformation Lifecycle
 
 ### 300 - Automate
 
+### 400 - Improve
+
 ## 300 - xxx
 
 ## 400 - Conclusion
